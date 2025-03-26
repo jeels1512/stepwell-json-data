@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Rani ki Vav",
+    "location": "Patan, Gujarat",
+    "yearBuilt": "11th century",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rani_ki_vav.jpg"
+  },
+  {
+    "name": "Adalaj Stepwell",
+    "location": "Gandhinagar, Gujarat",
+    "yearBuilt": "1499",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Adalaj_Stepwell_2.jpg"
+  },
+  {
+    "name": "Chand Baori",
+    "location": "Abhaneri, Rajasthan",
+    "yearBuilt": "9th century",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chand_Baori.jpg"
+  },
+  {
+    "name": "Agrasen ki Baoli",
+    "location": "Delhi",
+    "yearBuilt": "14th century",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Agrasen_ki_Baoli.jpg"
+  },
+  {
+    "name": "Neemrana Baori",
+    "location": "Neemrana, Rajasthan",
+    "yearBuilt": "18th century",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Neemrana_Baori.jpg"
+  },
+  {
+    "name": "Hampi Pushkarani",
+    "location": "Hampi, Karnataka",
+    "yearBuilt": "Vijayanagara Empire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pushkarni.jpg"
+  }
+]
