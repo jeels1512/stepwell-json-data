@@ -1,38 +1,38 @@
 [
   {
-    "name": "Rani ki Vav",
-    "location": "Patan, Gujarat",
-    "yearBuilt": "11th century",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rani_ki_vav.jpg/800px-Rani_ki_vav.jpg"
+    "name": "Sunset Lake",
+    "location": "Utah, USA",
+    "yearBuilt": "Natural",
+    "image": "https://picsum.photos/id/1018/800/500"
   },
   {
-    "name": "Adalaj Stepwell",
-    "location": "Gandhinagar, Gujarat",
-    "yearBuilt": "1499",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adalaj_Stepwell_2.jpg/800px-Adalaj_Stepwell_2.jpg"
+    "name": "Ancient Forest",
+    "location": "British Columbia, Canada",
+    "yearBuilt": "Prehistoric",
+    "image": "https://picsum.photos/id/1020/800/500"
   },
   {
-    "name": "Chand Baori",
-    "location": "Abhaneri, Rajasthan",
-    "yearBuilt": "9th century",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chand_Baori.jpg/800px-Chand_Baori.jpg"
+    "name": "Mountain Village",
+    "location": "Zermatt, Switzerland",
+    "yearBuilt": "19th century",
+    "image": "https://picsum.photos/id/1036/800/500"
   },
   {
-    "name": "Agrasen ki Baoli",
-    "location": "Delhi",
-    "yearBuilt": "14th century",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Agrasen_ki_Baoli.jpg/800px-Agrasen_ki_Baoli.jpg"
+    "name": "Island Coastline",
+    "location": "Maui, Hawaii",
+    "yearBuilt": "Natural Formation",
+    "image": "https://picsum.photos/id/1042/800/500"
   },
   {
-    "name": "Neemrana Baori",
-    "location": "Neemrana, Rajasthan",
-    "yearBuilt": "18th century",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Neemrana_Baori.jpg/800px-Neemrana_Baori.jpg"
+    "name": "Urban Bridge",
+    "location": "New York City, USA",
+    "yearBuilt": "1920",
+    "image": "https://picsum.photos/id/1063/800/500"
   },
   {
-    "name": "Hampi Pushkarani",
-    "location": "Hampi, Karnataka",
-    "yearBuilt": "Vijayanagara Empire",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pushkarni.jpg/800px-Pushkarni.jpg"
+    "name": "Green Valley",
+    "location": "Wales, UK",
+    "yearBuilt": "Ancient Settlement",
+    "image": "https://picsum.photos/id/1066/800/500"
   }
 ]
